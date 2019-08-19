@@ -10,10 +10,10 @@
 		<!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app.rc</groupId>
-	<artifactId>HandsOnWithSpringMvc</artifactId>
+	<artifactId>hands-on-with-spring-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HandsOnWithSpringMvc</name>
-	<description>Demo project for Spring Boot</description>
+	<name>hands-on-with-spring-mvc</name>
+	<description>Hands on with advanced topics of Spring MVC</description>
 
 	<properties>
 		<java.version>1.8</java.version>
